@@ -13,9 +13,7 @@
             "18:30",
             "12:00",
             "19:30"
-         ]
-      },
-      "Centro sentido Perobas":{
+         ],
          "Sábado, Domingo, Feriados":[
             "07:00",
             "15:15",
@@ -40,9 +38,7 @@
             "18:50",
             "12:30",
             "19:50"
-         ]
-      },
-      "Perobas Sentido Rodoviária":{
+         ],
          "Sábado, Domingo, Feriados":[
             "07:30",
             "16:20",
@@ -53,6 +49,7 @@
             "12:30",
             "13:45"
          ]
+     
       }
    }
 }
