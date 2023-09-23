@@ -1,7 +1,7 @@
 {
-   "Horários":{
-      "Centro sentido Córrego do Ouro":{
-         "Segunda a Sexta":[
+   "horarios":{
+      "centro_sentido_corrego_do_ouro":{
+         "segunda_a_sexta":[
             "05:30",
             "09:30",
             "13:30",
@@ -36,10 +36,8 @@
             "13:00",
             "17:00",
             "21:00"
-         ]
-      },
-      "Centro sentido Córrego do Ouro ":{
-         "Sábado, Domingo, Feriados":[
+         ],
+         "sabado_domingo_feriados":[
             "06:00",
             "10:30",
             "15:00",
@@ -69,8 +67,8 @@
             "23:00"
          ]
       },
-      "Córrego do Ouro Sentido Centro":{
-         "Segunda a Sexta":[
+      "corrego_do_ouro_sentido_centro":{
+         "segunda_a_sexta":[
             "06:00",
             "10:30",
             "15:00",
@@ -103,10 +101,8 @@
             "10:00",
             "14:30",
             "19:00"
-         ]
-      },
-      "Córrego do Ouro Sentido Centro":{
-         "Sábado, Domingo, Feriados":[
+         ],
+         "sabado_domingo_feriados":[
             "06:30",
             "11:00",
             "15:30",
