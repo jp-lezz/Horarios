@@ -1,7 +1,7 @@
 {
-   "Horários":{
-      "Centro sentido Barra":{
-         "Segunda a Domingo":[
+   "horarios":{
+      "centro_sentido_barra":{
+         "segunda_a_Domingo":[
             "06:45",
             "11:15",
             "15:45",
@@ -34,8 +34,8 @@
             "20:15"
          ]
       },
-      "Barra sentido Centro":{
-         "Segunda a Domingo":[
+      "barra_sentido_centro":{
+         "segunda_a_domingo":[
             "06:30",
             "11:00",
             "15:30",
@@ -68,8 +68,8 @@
             "20:30"
          ]
       },
-      "Centro Sentido Capitão Nestor":{
-         "Segunda a Domingo":[
+      "centro_sentido_capitão-nestor":{
+         "segunda_a_domingo":[
             "06:15",
             "10:45",
             "15:15",
@@ -102,8 +102,8 @@
             "19:45"
          ]
       },
-      "Capitão Nestor Sentido Centro":{
-         "Segunda a Domingo":[
+      "capitão-nestor_sentido_centro":{
+         "segunda_a_domingo":[
             "06:30",
             "11:00",
             "15:30",
