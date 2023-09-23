@@ -1,7 +1,7 @@
 {
-   "Horários":{
-      "Centro sentido Francesa":{
-         "Segunda a Domingo":[
+   "horarios":{
+      "centro_sentido_francesa":{
+         "segunda_a_domingo":[
             "06:05",
             "11:05",
             "16:05",
@@ -22,8 +22,8 @@
             "20:05"
          ]
       },
-      "Francesa sentido Centro ":{
-         "Segunda a Domingo":[
+      "francesa_sentido_centro ":{
+         "segunda_a_domingo":[
             "06:35",
             "11:35",
             "16:35",
