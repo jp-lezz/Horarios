@@ -1,7 +1,7 @@
 {
-   "Horários":{
-      "Centro sentido Boa Vista":{
-         "Segunda a Domingo":[
+   "horarios":{
+      "centro_sentido_boa_vista":{
+         "segunda_a_domingo":[
             "06:05 ",
             "10:35",
             "15:05 ",
@@ -38,8 +38,8 @@
             "19:05 "
          ]
       },
-      "Boa Vista sentido Centro":{
-         "Segunda a Domingo":[
+      "boa_vista_sentido_centro":{
+         "segunda_a_domingo":[
             "06:20",
             "10:50",
             "15:20",
@@ -76,8 +76,8 @@
             "19:20"
          ]
       },
-      "Centro Sentido Bairro da Glória":{
-         "Segunda a Domingo":[
+      "centro_sentido_bairro_da_gloria":{
+         "segunda_a_domingo":[
             "06:05",
             "10:35",
             "15:05",
@@ -114,8 +114,8 @@
             "19:05"
          ]
       },
-      "Bairro da Glória Sentido Centro":{
-         "Segunda a Domingo":[
+      "bairro_da_gloria_sentido_centro":{
+         "segunda_a_domingo":[
             "06:20",
             "10:50",
             "15:20",
