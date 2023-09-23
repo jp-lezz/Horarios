@@ -1,0 +1,16 @@
+{
+   "horarios":{
+      "centro_sentido_joao_calixto":{
+         "segunda_quarta_e_sexta":[
+            "08:00",
+            "14:30"
+         ]
+      },
+      "joao_calixto_sentido_centro":{
+         "segunda_quarta_e_sexta":[
+            "08:30",
+            "15:00"
+         ]
+      }
+   }
+}

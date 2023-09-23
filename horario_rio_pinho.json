@@ -1,0 +1,16 @@
+{
+   "horarios":{
+      "centro_sentido_rio_pinho":{
+         "segunda_quarta_e_sexta":[
+            "09:30",
+            "14:30"
+         ]
+      },
+      "rio_pinho_sentido_centro":{
+         "segunda_quarta_e_sexta":[
+            "10:10",
+            "15:10"
+         ]
+      }
+   }
+}
