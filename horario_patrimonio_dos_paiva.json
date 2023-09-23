@@ -1,0 +1,26 @@
+{
+   "horarios":{
+      "centro_sentido_patrimono_dos_paiva":{
+         "segunda_quarta_e_sexta":[
+            "08:00",
+            "11:10",
+            "15:15"
+         ],
+         "escolar_segunda_a_sexta":[
+            "11:10",
+            "17:00_vocacional"
+         ]
+      },
+      "patrimono_dos_paiva_sentido_rodoviária":{
+         "segunda_quarta_e_sexta":[
+            "08:40",
+            "16:00",
+            "18:00"
+         ],
+         "escolar_segunda_a_sexta":[
+            "11:50",
+            "18:00"
+         ]
+      }
+   }
+}
