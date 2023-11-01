@@ -13,14 +13,14 @@
                     {"id": "7", "horario": "11:55"},
                     {"id": "8", "horario": "18:35"},
                     {"id": "9", "horario": "13:15"},
-                    {"id": "10", "horario": "19:55"},
+                    {"id": "10", "horario": "19:55"}
                 ],
                 "sabado_domingo_feriados": [
                     {"id": "1", "horario": "07:55"},
                     {"id": "2", "horario": "11:55"},
                     {"id": "3", "horario": "09:15"},
                     {"id": "4", "horario": "13:15"},
-                    {"id": "5", "horario": "10:35"},
+                    {"id": "5", "horario": "10:35"}
                 ]
             },
             "bairro_centro": {
@@ -34,14 +34,14 @@
                     {"id": "7", "horario": "12:15"},
                     {"id": "8", "horario": "18:55"},
                     {"id": "9", "horario": "13:35"},
-                    {"id": "10", "horario": "20:15"},
+                    {"id": "10", "horario": "20:15"}
                 ],
                 "sabado_domingo_feriados": [
                     {"id": "1", "horario": "08:15"},
                     {"id": "2", "horario": "12:15"},
                     {"id": "3", "horario": "09:35"},
                     {"id": "4", "horario": "13:35"},
-                    {"id": "5", "horario": "10:55"},
+                    {"id": "5", "horario": "10:55"}
                 ]
             }
         }
@@ -80,7 +80,7 @@
                     {"id": "27", "horario": "19:15"},
                     {"id": "28", "horario": "10:45"},
                     {"id": "29", "horario": "15:15"},
-                    {"id": "30", "horario": "20:15"},
+                    {"id": "30", "horario": "20:15"}
                 ]
             },
             "bairro_centro": {
@@ -114,7 +114,7 @@
                     {"id": "27", "horario": "19:30"},
                     {"id": "28", "horario": "10:30"},
                     {"id": "29", "horario": "15:00"},
-                    {"id": "30", "horario": "20:30"},
+                    {"id": "30", "horario": "20:30"}
                 ]
             }
         }
